@@ -199,7 +199,7 @@ body main footer *:first-child + html .wrapper-cta {
 
 ::selection {
     color: white;
-    background: black;
+    background: beige;
 }
 
 body {
@@ -340,7 +340,7 @@ body #mainWrapper main::after {
 --------------------------------------------------------------*/
 
 body {
-    background: blue;
+    background: beige;
 }
 
 body main {
@@ -349,7 +349,7 @@ body main {
 		border-radius: 15px;
 		box-shadow: 0 10px 45px rgba(0, 0, 0, .1);
 		*/
-    color: white;
+    color: black;
     position: absolute;
     top: 50%;
     left: 50%;
